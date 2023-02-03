@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
-  "version": 2,
+  "version": 3,
   "projects": {
     "analog-app": "apps/analog-app",
     "analog-app-e2e-cypress": "apps/analog-app-e2e-cypress",
